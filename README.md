@@ -19,7 +19,7 @@ O objetivo foi criar uma solução moderna para:
 
 ## Demo
 
-🔗 Em breve (deploy na Vercel)
+🔗 https://pedidoszap-landing-page.vercel.app/
 
 ---
 
