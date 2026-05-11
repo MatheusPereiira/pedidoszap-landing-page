@@ -156,6 +156,12 @@ POST /api/auth/register
 - Foco em experiência do usuário
 
 ---
+## Participação no Hackathon
+
+![Hackathon FANS](./screenshots/hackathon.png)
+
+Equipe participante do Hackathon realizado na Faculdade de Nova Serrana (FANS), evento acadêmico voltado para inovação, desenvolvimento de soluções tecnológicas e trabalho em equipe utilizando metodologias ágeis.
+
 
 ## Autor
 
